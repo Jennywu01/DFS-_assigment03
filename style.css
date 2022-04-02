@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <span class="img-container"> <!-- Inline parent element -->
+      <img src="https://img.cvtvcn.com/group1/default/20190919/10/17/1/timg.jpg" alt="LX_01">
+    </span>
+  </body>
+</html>
+
+<style>
+p {
+ text-align:center
+}
+</style>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <span class="img-container"> <!-- Inline parent element -->
+      <img src="http://www.guohuashanshui.com/uploads/allimg/20170614/15htlzbyirpbf22.jpg" alt="LX_02">
+    </span>
+  </body>
+</html>
+
+<style>
+p {
+ text-align:center
+}
+</style>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <span class="img-container"> <!-- Inline parent element -->
+      <img src="http://www.guohuashanshui.com/uploads/allimg/20170614/15yfhwtbjdqfl22.jpg" alt="LX_02">
+    </span>
+  </body>
+</html>
+
+<style>
+p {
+ text-align:center
+}
+</style>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <span class="img-container"> <!-- Inline parent element -->
+      <img src="http://www.guohuashanshui.com/uploads/allimg/20170614/15epwwfijklah22.jpg" alt="LX_04">
+    </span>
+  </body>
+</html>
+
+<style>
+p {
+ text-align:center
+}
+</style>
